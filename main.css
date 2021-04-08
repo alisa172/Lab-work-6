@@ -122,7 +122,6 @@ a:hover {
 #content-contacts, 
 .mynumberem,
 .content-work,
-.social-networks-content,
 #about-me-content {
   animation: fadeIn 2s forwards;
 } 
@@ -187,13 +186,6 @@ a:hover {
   margin-top: 183px;
   text-align: center;
 
-}
-
-.social-networks-content {
-  font-family: 'Dela Gothic One', sans-serif;
-  font-size: 3.4rem;
-  margin-top: 40px;
-  text-align: center;
 }
 
 #about-me-content {
